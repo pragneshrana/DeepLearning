@@ -1,0 +1,4 @@
+artifact_location: file:///home/pragnesh/Git/DeepLearning/DeepCNN/MLFlow/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: Fixed nH

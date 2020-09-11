@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pragnesh/Git/DeepLearning/DeepCNN/MLFlow/mlruns/1/de9653a53b05493f8371854e69446a5a/artifacts
+end_time: 1599832289456
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: de9653a53b05493f8371854e69446a5a
+run_uuid: de9653a53b05493f8371854e69446a5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1599832287912
+status: 4
+tags: []
+user_id: pragnesh
